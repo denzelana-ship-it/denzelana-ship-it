@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Denzel Washington
 
-🎯 Desenvolvedor(a) apaixonado(a) por tecnologia e resolução de problemas.
+🎯 Desenvolvedor focado em tecnologia e resolução de problemas.
 
 ---
 
